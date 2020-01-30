@@ -1,6 +1,6 @@
 # flash
 
-A new Flutter project For GroupChatiing .
+A new Flutter project For GroupChatiing Using Flutter and FireBase Services.
 
 ## Getting Started
 
